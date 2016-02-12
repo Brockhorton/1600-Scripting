@@ -7,14 +7,14 @@ public class ScopeAndAccessModifiers : MonoBehaviour
     private int Sam = 0;
     private int Eli = 5;
     
-    private AnotherClass myOtherClass;
+    private AnotherClass Class;
     
     void Start ()
     {
         Brock = 10;
         
-        myOtherClass = new AnotherClass();
-        myOtherClass.Class(Brock, myOtherClass.Pans);
+        Class = new AnotherClass();
+        Class.Class(Brock, Class.Pans);
     }
     
     void Example (int Gum, int Ball)

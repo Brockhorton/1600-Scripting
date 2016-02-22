@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 063562ea9ed0cb84ba9e89905cca4579
+timeCreated: 1456157820
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Brick_02_0
+    21300002: Brick_02_1
+    21300004: Brick_02_2
+    21300006: Brick_02_3
+    21300008: Brick_02_4
+    21300010: Brick_02_5
+    21300012: Brick_02_6
+    21300014: Brick_02_7
+    21300016: Brick_02_8
+    21300018: Brick_02_9
+    21300020: Brick_02_10
+    21300022: Brick_02_11
+    21300024: Brick_02_12
+    21300026: Brick_02_13
+    21300028: Brick_02_14
+    21300030: Brick_02_15
+    21300032: Brick_02_16
+    21300034: Brick_02_17
+    21300036: Brick_02_18
+    21300038: Brick_02_19
+    21300040: Brick_02_20
+    21300042: Brick_02_21
+    21300044: Brick_02_22
+    21300046: Brick_02_23
+    21300048: Brick_02_24
+    21300050: Brick_02_25
+    21300052: Brick_02_26
+    21300054: Brick_02_27
+    21300056: Brick_02_28
+    21300058: Brick_02_29
+    21300060: Brick_02_30
+    21300062: Brick_02_31
+    21300064: Brick_02_32
+    21300066: Brick_02_33
+    21300068: Brick_02_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Brick_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614.5714
+        width: 204.8
+        height: 102.42859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 614.5714
+        width: 204.79999
+        height: 102.42859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 614.5714
+        width: 204.79999
+        height: 102.42859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 614.5714
+        width: 204.79999
+        height: 102.42859
+      alignment: 0
+      pivot: {x: 0.5000002, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 614.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 512.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 512.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 512.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 512.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 410.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 410.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 410.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 410.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 308.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 308.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 308.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 308.5714
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.07141}
+        - {x: -102.5, y: -50.92859}
+        - {x: 102.5, y: -50.92859}
+        - {x: 102.5, y: 52.07141}
+    - name: Brick_02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 206.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 206.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 206.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 104.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 104.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 104.57143
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5714264
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2.5714264
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2.5714264
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2.5714264
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    - name: Brick_02_34
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2.5714264
+        width: 204.8
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 52.071426}
+        - {x: -102.5, y: -50.928574}
+        - {x: 102.5, y: -50.928574}
+        - {x: 102.5, y: 52.071426}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

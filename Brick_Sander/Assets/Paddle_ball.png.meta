@@ -1,9 +1,11 @@
 fileFormatVersion: 2
-guid: 13f86b82566924b4fb3b145c0e015f33
-timeCreated: 1456156846
+guid: a7c89328af1bfc9498cfdcb2a3e3d964
+timeCreated: 1456157780
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Paddle_ball_0
+    21300002: Paddle_ball_1
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,26 +32,108 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
-  alphaIsTransparency: 0
-  textureType: -1
+  alphaIsTransparency: 1
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Paddle_ball_0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 523
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128.5, y: -33.5}
+        - {x: 128.5, y: 36.5}
+        - {x: 110.5, y: 78.5}
+        - {x: 80.5, y: 105.5}
+        - {x: 51.5, y: 123.5}
+        - {x: 32.5, y: 128.5}
+        - {x: -35.5, y: 128.5}
+        - {x: -79.5, y: 112.5}
+        - {x: -119.5, y: 67.5}
+        - {x: -128.5, y: 34.5}
+        - {x: -128.5, y: -40.5}
+        - {x: -103.5, y: -87.5}
+        - {x: -68.5, y: -115.5}
+        - {x: -34.5, y: -128.5}
+        - {x: 31.5, y: -128.5}
+        - {x: 68.5, y: -116.5}
+        - {x: 103.5, y: -87.5}
+        - {x: 125.5, y: -46.5}
+    - name: Paddle_ball_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 1024
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 48, y: 46, z: 43, w: 44}
+      outline:
+      - - {x: 493, y: -77.5}
+        - {x: 494, y: -77.5}
+        - {x: 507, y: -64.5}
+        - {x: 511, y: -55.5}
+        - {x: 511, y: -53.5}
+        - {x: 512, y: -51.5}
+        - {x: 512, y: 50.5}
+        - {x: 511, y: 55.5}
+        - {x: 507, y: 64.5}
+        - {x: 504, y: 66.5}
+        - {x: 504, y: 67.5}
+        - {x: 494, y: 77.5}
+        - {x: 493, y: 77.5}
+        - {x: 491, y: 80.5}
+        - {x: 482, y: 84.5}
+        - {x: 480, y: 84.5}
+        - {x: 478, y: 85.5}
+        - {x: -477, y: 85.5}
+        - {x: -482, y: 84.5}
+        - {x: -491, y: 80.5}
+        - {x: -493, y: 77.5}
+        - {x: -494, y: 77.5}
+        - {x: -504, y: 67.5}
+        - {x: -504, y: 66.5}
+        - {x: -507, y: 64.5}
+        - {x: -511, y: 55.5}
+        - {x: -511, y: 53.5}
+        - {x: -512, y: 51.5}
+        - {x: -512, y: -50.5}
+        - {x: -511, y: -55.5}
+        - {x: -507, y: -64.5}
+        - {x: -504, y: -66.5}
+        - {x: -504, y: -67.5}
+        - {x: -494, y: -77.5}
+        - {x: -493, y: -77.5}
+        - {x: -491, y: -80.5}
+        - {x: -482, y: -84.5}
+        - {x: -480, y: -84.5}
+        - {x: -478, y: -85.5}
+        - {x: 477, y: -85.5}
+        - {x: 482, y: -84.5}
+        - {x: 491, y: -80.5}
     outline: []
   spritePackingTag: 
   userData: 
